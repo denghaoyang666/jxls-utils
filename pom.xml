@@ -25,6 +25,18 @@
       <artifactId>jxls-core</artifactId>
       <version>1.0.6</version>
     </dependency>
+    <!--http-->
+    <dependency>
+      <groupId>commons-httpclient</groupId>
+      <artifactId>commons-httpclient</artifactId>
+      <version>3.0.1</version>
+    </dependency>
+    <!--thumb-->
+    <dependency>
+      <groupId>net.coobird</groupId>
+      <artifactId>thumbnailator</artifactId>
+      <version>0.4.8</version>
+    </dependency>
   </dependencies>
 
   <build>

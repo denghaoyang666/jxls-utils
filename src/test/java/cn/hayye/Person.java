@@ -1,4 +1,4 @@
-package cn.hayye.JxlsUtils;
+package cn.hayye;
 
 public class Person {
     private Long id;
@@ -8,7 +8,7 @@ public class Person {
     private Integer age;
     private String birth;
 
-    public Person(Long id, String name,String nick, String sex, Integer age, String birth) {
+    public Person(Long id, String name, String nick, String sex, Integer age, String birth) {
         this.id = id;
         this.name = name;
         this.nick = nick;
